@@ -1,0 +1,4 @@
+
+# Discord Secrets
+Token = ""
+
